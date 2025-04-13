@@ -1,0 +1,13 @@
+{
+  "name": "web-app-ci-cd",
+  "version": "1.0.0",
+  "description": "A sample app for CI/CD pipeline",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "echo \"Simulated build step\""
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
